@@ -3,9 +3,9 @@
 
 * [Hemsidan](./)
 
-* [Startsidan](./startsidan/index)
-  * [Resepter](./resepter/tomcat/index)
-  * [Lektioner](./lektioner/cloud/index)
-  * [Schema](./schema/java/index)
+* [Github guide](./startsidan/index)
+  * [Information](./resepter/tomcat/index)
+  * [Viktiga kommand](./lektioner/cloud/index)
+  
 
 
