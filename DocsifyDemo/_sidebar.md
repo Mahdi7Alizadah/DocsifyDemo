@@ -1,14 +1,11 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Home](./)
+* [Hemsidan](./)
 
 * [Startsidan](./startsidan/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
+  * [Resepter](./resepter/tomcat/index)
+  * [Lektioner](./lektioner/cloud/index)
+  * [Schema](./schema/java/index)
 
-* [About](./about/index)
-
-* [Contact](./contact/index)
 
