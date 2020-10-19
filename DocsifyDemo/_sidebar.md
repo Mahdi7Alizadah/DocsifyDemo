@@ -1,9 +1,9 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [Home](./)
 
-* [Tutorials](./tutorials/index)
+* [Startsidan](./startsidan/index)
   * [Tomcat](./tutorials/tomcat/index)
   * [Cloud](./tutorials/cloud/index)
   * [Java](./tutorials/java/index)
